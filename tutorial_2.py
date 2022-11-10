@@ -1,4 +1,5 @@
 def good_bye(name):
     print(f'good by {name}')
 
-good_bye('Víctor')
+name = 'Víctor'
+good_bye(name)
